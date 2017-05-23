@@ -28,6 +28,10 @@
 	color:#2A2A2A;
 }
 
+.header h2 a:hover{
+	color:#55acee;
+}
+
 .container-fluid{
 	margin-bottom:346px;
 }

@@ -27,6 +27,10 @@
 	color:#2A2A2A;
 }
 
+.header h2 a:hover{
+	color:#55acee;
+}
+
 .container{
 	text-align: center;
 	margin:40px auto;

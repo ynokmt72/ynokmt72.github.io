@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+	background-color: #062c37;
+	text-align:center;
+}
+
+.main{
+	max-width: inherit;
+	margin:250px auto;
+}
+
+.main p{
+	list-style: none;
+	font-family: "Hiragino Maru Gothic ProN W4";
+	font-size: 30px;
+	color: antiquewhite ;
+	margin:10px 10px;
+	text-align: center;
+}
+
+p{
+	transition: 0.7s ;
+	color: #CD5554;
+}
+
+a:hover{
+	color: #CD5554;
+}
+
+a{
+	color: antiquewhite ;
+	text-decoration:none;
+}
+
+footer p{
+	font-size:13px;
+	color:antiquewhite;
+	text-align: center;
+}

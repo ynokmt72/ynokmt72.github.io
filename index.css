@@ -42,6 +42,7 @@
 
 .col-md-4 img{
 	margin: 40px auto;
+	border-radius: 10px;
 }
 
 .container-fluid a{

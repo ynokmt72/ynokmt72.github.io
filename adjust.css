@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@media (min-width: 400px){
+	.col-md-4{
+		margin-bottom: 50px;
+	}
+	
+	.row{
+		margin-bottom:-250px;
+	}
+}
+

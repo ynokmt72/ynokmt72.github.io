@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+    padding: 0;
+	text-align: center;
+	background-color: #062c37;
+	color:antiquewhite;
+}
+
+a{
+	text-decoration: none;
+	color:#CD5554;
+	moz-osx-font-smoothing:auto;
+
+}
+
+footer{
+	font-size:13px;
+	text-align: center;
+}

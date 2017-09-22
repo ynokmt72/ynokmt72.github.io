@@ -22,8 +22,16 @@ container{
 	color: #CD5554;
 }
 
-.fa:hover{
-	color:#CD5554;
+.fa-twitter-square:hover{
+	color:#1DA1F2;
+}
+
+.fa-facebook-square:hover{
+	color:#3B5CA0;
+}
+
+.fa-envelope:hover{
+    color:#DE2D1C;
 }
 
 footer{

@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+	background-color: #062c37;
+	text-align:center;
+	font-family:'Ubuntu', sans-serif;
+}
+
+.main{
+	max-width: inherit;
+	margin:300px auto;
+}
+
+.main p{
+	list-style: none;
+	font-size: 30px;
+	color: antiquewhite ;
+	margin:10px 10px;
+	text-align: center;
+}
+
+p{
+	transition: 0.7s ;
+	color: antiquewhite;
+}
+
+.main-pri a:hover{
+	color: #DDB712;
+	font-weight: 700;
+}
+
+.main-pri a{
+	color:#B3A341;
+	text-decoration:none;
+}
+
+.main-pub a:hover{
+	color:#6BA840;
+	font-weight: 700;
+}
+
+.main-pub a{
+	color:#54864D;
+	text-decoration: none;
+}
+
+footer p{
+	font-size:13px;
+	color:antiquewhite;
+	text-align: center;
+	font-family:'Raleway', sans-serif;
+}
